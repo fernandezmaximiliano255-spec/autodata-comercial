@@ -30,7 +30,7 @@ No se utiliza Python para limpiar los datos. La información se carga limpia des
 ## Archivos principales
 
 - PanelComercialVehiculos.pbix: archivo editable del dashboard de Power BI.
-- PanelComercialVehiculos.pdf.pdf: exportación del dashboard.
+- PanelComercialVehiculos-horizontal.pdf: exportación del dashboard.
 - SQLComercialVehiculos.sql: esquema, datos, consultas y reporte SQL.
 
 ## Orden de ejecución
